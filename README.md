@@ -1,1 +1,1 @@
-This is a preview of my learn soo far.
+This is a preview of me learning hml soo far.
